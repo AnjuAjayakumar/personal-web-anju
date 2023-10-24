@@ -1,0 +1,148 @@
+.header{
+    background:#3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+    
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.logo-text{
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin-left: 170px;
+}
+.login-label{
+    color: #fff;
+
+}
+.login-controls{
+    margin-left: 115px;
+
+}
+.login{
+    padding-top: 10px;
+}
+.forgotten{
+    color: #fff;
+    font-size: 11px;
+    text-decoration: none;
+    color: #9cb4d8;
+}
+.sub-btn{
+    background: #4267b2;
+    color: #fff;
+    height: 20px;
+    border-color: #29487d;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    background:green;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 134px;
+    padding-top: 50px;
+}
+.right-section{
+    width: 30%;
+    float: left;
+}
+.main-body{
+    background: linear-gradient(white,#d3d8e8);
+    height:600px ;
+    width: 100%;
+}
+.image{
+    width: 532px;
+}
+.border-radious{
+    height: 24px;
+    width: 200px;
+    border-radius: 5px;
+    font-size: 15px;
+    border-color: white ;
+    
+}
+.para2{
+    font-size: 18px;
+}
+.data{
+    height: 24px;
+    width: 412px;
+    border-radius: 5px;
+    font-size: 15px;
+    border-color: white ;
+    margin-top: 15px;
+}
+.birth{
+    margin-top: 19px;
+    color: gray;
+    font-size: 15px;
+    font-weight: bold;
+    padding-top: 26px;
+   
+
+}
+.day{
+    margin-top: 15px;
+   
+    border: solid;
+    border-color: gray;
+    width: 50px;
+}
+.month{
+    margin-top: 15px;
+  
+    border: solid;
+    border-color: gray;
+    width: 69px;
+}
+.year{
+    margin-top: 15px;
+   
+    border: solid;
+    border-color: gray;
+    width: 69px;
+}
+.gender{
+    color: gray;
+    margin-top: 20px;
+}
+.male{
+   
+    height: 15px;
+
+}
+.link{
+    font-size: 11px;
+}
+.signup{
+
+    background: green;
+    color: #fff;
+    height: 20px;
+    width: 240px;
+    border-color: #29487d;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    background:white;
+}
+body{
+    margin: 0;
+}
